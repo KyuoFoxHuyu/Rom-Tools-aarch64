@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 #====================================================
 #          FILE: img2sdat.py
@@ -34,10 +34,10 @@ def main(INPUT_IMAGE, OUTDIR='.', VERSION=None, PREFIX='system'):
     if not VERSION:
         VERSION = 4
         while True:
-            print('''            1. Android Lollipop 5.0
-            2. Android Lollipop 5.1
-            3. Android Marshmallow 6.0
-            4. Android 7.x~11
+            print('''1. Android Lollipop 5.0
+2. Android Lollipop 5.1
+3. Android Marshmallow 6.0
+4. Android 7.x~11
             ''')
             try:
                 input = raw_input
