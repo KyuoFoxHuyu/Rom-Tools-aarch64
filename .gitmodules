@@ -1,16 +1,16 @@
 [submodule "brotli"]
 	path = brotli
-	url = https://github.com/google/brotli
+	url = https://hub.fastgit.org/google/brotli
 	branch = master
 [submodule "simg2img"]
 	path = simg2img
-	url = https://github.com/anestisb/android-simg2img
+	url = https://hub.fastgit.org/anestisb/android-simg2img
 	branch = master
 [submodule "payload"]
 	path = payload
-	url = https://github.com/cyxx/extract_android_ota_payload
+	url = https://hub.fastgit.org/cyxx/extract_android_ota_payload
 	branch = master
 [submodule "ozip"]
 	path = ozip
-	url = https://github.com/bkerler/oppo_ozip_decrypt
+	url = https://hub.fastgit.org/bkerler/oppo_ozip_decrypt
 	branch = master
